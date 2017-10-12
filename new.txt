@@ -1,5 +1,3 @@
-first git use
-second use of gt
-
-kalam 10 tarikh
+I have a new file on this directory
+-----------------------------------
 
