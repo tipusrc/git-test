@@ -2,3 +2,6 @@ I have a new file on this directory
 -----------------------------------
 added some new text
 
+.................
+another line added
+

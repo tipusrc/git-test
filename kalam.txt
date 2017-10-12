@@ -14,3 +14,11 @@ return "profile";
 for($i= ;i<10;$i++){
 	echo "number :".$i; 
 }
+
+//a new condition added
+if(true){
+print proceed;
+}else{
+print failed;
+}
+
