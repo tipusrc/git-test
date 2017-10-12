@@ -2,3 +2,9 @@ I am Kalam
 I am a PHP Programmer
 and I develop apps using laravel
 love git
+.......................
+function showProile(){
+
+return "profile";
+
+}
