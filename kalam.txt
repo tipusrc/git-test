@@ -8,3 +8,9 @@ function showProile(){
 return "profile";
 
 }
+-------------------------
+//added a loop
+
+for($i= ;i<10;$i++){
+	echo "number :".$i; 
+}
