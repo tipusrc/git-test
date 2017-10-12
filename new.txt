@@ -1,4 +1,5 @@
 I have a new file on this directory
+
 -----------------------------------
 added some new text
 
@@ -6,4 +7,6 @@ added some new text
 another line added
 ..................
 Hello one by one
+.................
 
+fifth line added
