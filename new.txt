@@ -1,5 +1,4 @@
-I have a new file on this directory
-
+I have a new file on this director
 -----------------------------------
 added some new text
 
@@ -10,3 +9,6 @@ Hello one by one
 .................
 
 fifth line added
+////////////////
+git last amend commit
+
