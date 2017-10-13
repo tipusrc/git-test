@@ -8,3 +8,6 @@ function sum(n){
 console.log(sum(nums));
 
 //last comment for stash
+//
+//natu
+//akta line jeta ke stash korbo
