@@ -10,5 +10,6 @@ Hello one by one
 
 fifth line added
 ////////////////
-git last amend commit
+
+some text for partial commit
 

@@ -23,3 +23,5 @@ print failed;
 }
 ..................
 Iubat
+
+Added some new text for amend commit withot reset
